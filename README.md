@@ -8,3 +8,7 @@ One popular expansion of the classic "rock,scissors,paper" game is "rock-paper-s
 Spock smashes scissors and vaporizes rock; he is poisoned by lizard and disproved by paper.
 Lizard poisons Spock and eats paper; it is crushed by rock and decapitated by scissors.
 This variant was mentioned in a 2005 article in The Times of London and was later the subject of an episode of the American sitcom The Big Bang Theory in 2008 (as rock-paper-scissors-lizard-Spock).
+
+Rules of the game:
++ '+'means that the row player "beats", '-' means "is beaten" and 'O' means tie.
+  <img height="300" src="+ means that the row player &amp;amp;amp;amp;quot;beats&amp;amp;amp;amp;quot;, - means &amp;amp;amp;amp;quot;is beaten&amp;amp;amp;amp;quot; and O means tie" width="500"/>
