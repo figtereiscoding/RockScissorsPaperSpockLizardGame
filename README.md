@@ -1,6 +1,6 @@
 # RockScissorsPaperSpockLizardGame
 
- Variant of the rock-scissors-paper game
+## Variant of the rock-scissors-paper game
 
 <img height="300" src="C:\Users\ktsek\OneDrive\Documents\GitHub\RockScissorsPaperSpockLizardGame\800px-Pierre_ciseaux_feuille_lézard_spock_aligned.jpeg" width="300"/>
 
