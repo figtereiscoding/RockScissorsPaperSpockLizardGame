@@ -11,4 +11,4 @@ This variant was mentioned in a 2005 article in The Times of London and was late
 
 Rules of the game:
 + '+'means that the row player "beats", '-' means "is beaten" and 'O' means tie.
-  <img height="300" src="+ means that the row player &amp;amp;amp;amp;quot;beats&amp;amp;amp;amp;quot;, - means &amp;amp;amp;amp;quot;is beaten&amp;amp;amp;amp;quot; and O means tie" width="500"/>
+  <img height="300" src="https://github.com/tsekovTriesCoding/RockScissorsPaperSpockLizardGame/blob/main/rules.png" width="500"/>
